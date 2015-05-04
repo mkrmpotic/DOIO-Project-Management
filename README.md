@@ -12,4 +12,4 @@ DOIO is a simple project management tool made in one weekend. There is still a l
 7. User profile editing
 
 ## Why did I do it?
-It was made as a final project for one of the courses at the universtiy I attend.
+It was made as a final project for one of the courses at the university I attend.
